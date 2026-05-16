@@ -28,7 +28,7 @@ A machine learning project on the Kaggle Titanic dataset covering EDA, feature e
 
 | Survival by Gender | Survival by Passenger Class | Feature Correlation Heatmap |
 |--------------------|------------------------------|------------------------------|
-| <img src="screenshots/Screenshot-1.png" width="100%"/> | <img src="screenshots/Screenshot-2.png" width="100%"/> | <img src="screenshots/Screenshot-3.png" width="100%"/> |
+| <img src="screenshots/Screenshot-1.png" width="100%"/> | <img src="screenshots/Screenshot-2.png" width="98%"/> | <img src="screenshots/Screenshot-3.png" width="100%"/> |
 | <p align="center"><b>Gender Analysis</b></p> | <p align="center"><b>Pclass Analysis</b></p> | <p align="center"><b>Correlation Matrix</b></p> |
 
 ---
@@ -46,7 +46,7 @@ A machine learning project on the Kaggle Titanic dataset covering EDA, feature e
 
 ## 📊 Dataset
 
-The project uses the **Kaggle Titanic Dataset** — 891 passengers in the training set, each with the following features:
+The project uses the **Kaggle Titanic Dataset** - 891 passengers in the training set, each with the following features:
 
 | Feature | Type | Description |
 |---------|------|-------------|
