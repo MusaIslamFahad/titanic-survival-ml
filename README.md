@@ -26,21 +26,10 @@ A machine learning project on the Kaggle Titanic dataset covering EDA, feature e
 
 ## 🖼️ EDA Snapshots
 
-<!-- Add your plot screenshots after exporting from the notebook -->
-
-**Survival by Gender**
-
-![Survival by Gender](screenshots/survival_by_gender.png)
-
-**Survival by Passenger Class**
-
-![Survival by Pclass](screenshots/survival_by_pclass.png)
-
-**Feature Correlation Heatmap**
-
-![Correlation Heatmap](screenshots/correlation_heatmap.png)
-
-> _Export these plots from your notebook cells and drop them into a `screenshots/` folder_
+| Survival by Gender | Survival by Passenger Class | Feature Correlation Heatmap |
+|--------------------|------------------------------|------------------------------|
+| <img src="screenshots/Screenshot-1.png" width="100%"/> | <img src="screenshots/Screenshot-2.png" width="100%"/> | <img src="screenshots/Screenshot-3.png" width="100%"/> |
+| <p align="center"><b>Gender Analysis</b></p> | <p align="center"><b>Pclass Analysis</b></p> | <p align="center"><b>Correlation Matrix</b></p> |
 
 ---
 
