@@ -239,7 +239,7 @@ Contributions, suggestions, and improvements are welcome!
 
 **Musa Islam Fahad**
 - GitHub: [@MusaIslamFahad](https://github.com/MusaIslamFahad)
-- Kaggle: [Your Kaggle Profile](https://www.kaggle.com/mdmusaislamfahad01)
+- Kaggle: [My Kaggle Profile](https://www.kaggle.com/mdmusaislamfahad01)
 
 ---
 
